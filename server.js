@@ -17,8 +17,8 @@ app.use(express.static(__dirname + '/public'));
 // app.set('view engine', 'ejs');
 
 // Get those routes
-var routes = require(__dirname + '/config/routes');
-app.use('/', routes);
+// var routes = require(__dirname + '/config/routes');
+// app.use('/', routes);
 
 //Start server 
 app.listen(process.env.PORT || 3000, function() {
