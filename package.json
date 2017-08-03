@@ -13,7 +13,16 @@
   "dependencies": {
     "bcrypt": "^1.0.2",
     "body-parser": "^1.17.2",
+    "bower": "^1.8.0",
+    "chai": "^4.1.0",
     "express": "^4.15.3",
-    "mongoose": "^4.11.5"
+    "express-session": "^1.15.5",
+    "hash": "^0.2.0",
+    "method-override": "^2.3.9",
+    "mocha": "^3.5.0",
+    "mongoose": "^4.11.5",
+    "nodemon": "^1.11.0",
+    "passport": "^0.3.2",
+    "salt": "^0.5.5"
   }
 }
